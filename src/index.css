@@ -4,5 +4,5 @@
 
 body{
     background-color: #000000;
-    background-image: linear-gradient(0deg, #000000 0%, #be0004 100%);
+    background-image: linear-gradient(0deg, #000000 0%, #000000 90%, #be0004 100%);
 }
